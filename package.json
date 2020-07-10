@@ -2,7 +2,7 @@
   "name": "homebridge-homekit-controller",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinpham/homebridge-homekit-controller.git"
+    "url": "git+https://github.com/L-C-P/homebridge-homekit-controller.git"
   },
   "bin": {
     "homekit": "./cli.js"
